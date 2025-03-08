@@ -26,12 +26,12 @@ Follow these steps to run the project:
 1. **Clone the Repository**:
     ```sh
     git https://github.com/ifanzalukhu97/Week-1-Project-DeAI-Bootcamp-Q1-2025-Encode-Club.git
-    cd Week-1-Project-DeAI-Bootcamp
+    cd Week-1-Project-DeAI-Bootcamp-Q1-2025-Encode-Club
     ```
 
 2. **Create a Virtual Environment**:
     ```sh
-    python -m venv venv
+    python -m venv .venv
     ```
 
 3. **Activate the Virtual Environment**:
@@ -49,6 +49,11 @@ Follow these steps to run the project:
     pip install -r requirements.txt
     ```
    
+5. **Run the Script**:
+    ```sh
+    python main.py
+    ```
+
 ## Warning
 
 If you encounter an error like this:
