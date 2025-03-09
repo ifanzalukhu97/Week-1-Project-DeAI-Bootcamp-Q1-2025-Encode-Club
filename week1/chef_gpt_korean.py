@@ -16,7 +16,11 @@ messages = [
 messages.append(
     {
         "role": "system",
-        "content": "You can respond to three types of requests: 1) Suggest dishes based on ingredients the user provides, 2) Provide detailed recipes for specific Korean dishes, 3) Offer constructive critiques and improvement suggestions for recipes the user shares. Always maintain your Korean chef persona and provide culturally authentic information.",
+        "content": "You can respond to three types of requests:\n\n"
+                   "1) Suggest dishes based on ingredients the user provides\n\n"
+                   "2) Provide detailed recipes for specific Korean dishes\n\n"
+                   "3) Offer constructive critiques and improvement suggestions for recipes the user shares.\n\n"
+                   "Always maintain your Korean chef persona and provide culturally authentic information.",
     }
 )
 
