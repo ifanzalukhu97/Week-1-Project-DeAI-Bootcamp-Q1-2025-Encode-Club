@@ -74,5 +74,13 @@ client = OpenAI("YOUR_OPENAI_API_KEY")
 ```
 Replace "YOUR_OPENAI_API_KEY" with your actual OpenAI API key.
 
+## Simple Report
+![experiment 1](images/image-1.png)
+![experiment 2](images/image-2.png)
+![experiment 3](images/image-3.png)
+
+
 ## Contributors
-- [githubId](Link Github) (Unique ID: example QewkCo, L6grDG, FsqXTK, rUaV65)
+- [ifanzalukhu97](https://github.com/ifanzalukhu97) (Unique ID: S3lFve)
+- [nvinnikov](https://github.com/nvinnikov) (Unique ID: VvZfPu)
+- [joyjsmun](https://github.com/joyjsmun) (Unique ID: OFVwFA)
